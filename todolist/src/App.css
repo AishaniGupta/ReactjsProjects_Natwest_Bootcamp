@@ -1,0 +1,20 @@
+*{
+  margin: auto;
+}
+#mainContainer{
+  width: 50vw;
+  height: 85vh;
+  border: 2px solid white;
+  margin-top: 2%;
+  text-align: center;
+  border-radius: 10px;
+  background-image:linear-gradient(to right,pink,white,skyblue,pink,white,skyblue);
+}
+#text{
+  margin-bottom: 2%;
+  margin-top: 1.5%;
+  color: white;
+}
+#textBox{
+  margin-bottom: 2%;
+}
