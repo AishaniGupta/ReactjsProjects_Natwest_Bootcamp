@@ -1,0 +1,10 @@
+#mainContainer{
+  width: 30vw;
+  height: 40vh;
+  border: 1px solid black;
+  margin: auto;
+  text-align: center;
+  margin-top: 2%;
+  padding-top: 5%;
+  background-image:linear-gradient(to left,yellow, rgb(29, 214, 29));
+}
