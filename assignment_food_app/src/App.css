@@ -1,0 +1,53 @@
+#mainContainer{
+  width: 100vw;
+  height: 100vh;
+  background-color: rgb(255, 165, 127);
+}
+#Header{
+  width: 100vw;
+  height: 10vh;
+  background-image: linear-gradient(to right,blue,red);
+}
+#searchBar{
+  margin-top: 1.5%;
+  margin-left: 40%;
+  background-color: white;
+}
+#invoice{
+  height: 5vh;
+  width: 10vw;
+  margin-top: 2%;
+  margin-left: 45%;
+}
+#App{
+  margin-top: 2%;
+  margin-left: 2%;
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+}
+#btn{
+  width: 8vw;
+  height: 4vh;
+  margin-top: 1%;
+  margin-bottom: 1%;
+  display: flex;
+  flex-direction: row;
+}
+#add{
+  background-color: white;
+  margin-left: 4%;
+  border: none;
+  border-radius: 5px;
+}
+#price{
+  background-color: white;
+}
+#text{
+  margin-top: 0%;
+  margin-bottom: 0%;
+}
+#Invoice{
+  width: 50vw;
+  height: 70vh;
+  background-image:linear-gradient(to right,blue,red);
+}
