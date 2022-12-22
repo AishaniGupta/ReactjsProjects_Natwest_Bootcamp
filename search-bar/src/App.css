@@ -1,0 +1,19 @@
+#mainContainer{
+  width: 70vw;
+  height: 100vh;
+  border: 1px solid black;
+  margin: auto;
+  border-radius: 10px;
+  background-image:linear-gradient(to left,rgb(249, 50, 50),lightpink,pink,white,pink,lightpink,rgb(249, 50, 50));
+}
+#Content{
+  margin-top: 2%;
+  margin-left: 8%;
+}
+#search{
+  margin-left:40% ;
+  margin-top: 2%;
+}
+#table{
+  margin-top: 2%;
+}

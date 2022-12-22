@@ -1,0 +1,22 @@
+#table{
+  background-image:linear-gradient(to right,violet,purple,indigo,blue);
+  border-radius: 10px;
+  margin: auto;
+  margin-top: 2% ;
+}
+#tableHead{
+  color: white;
+  font-size: 17px;
+  font-family: 'Times New Roman', Times, serif;
+  background-image:linear-gradient(to left,rgb(60, 4, 60),rgb(45, 2, 76));
+  border-radius: 10px;
+}
+#tableRow{
+  border: 1px solid white;
+}
+h5{
+  margin-top: 1.5%;
+  margin-bottom: 0%;
+  text-align: center;
+  color: aliceblue;
+}

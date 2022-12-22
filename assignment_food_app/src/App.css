@@ -1,7 +1,5 @@
-#mainContainer{
-  width: 100vw;
-  height: 100vh;
-  background-color: rgb(255, 165, 127);
+*{
+  background-color: purple;
 }
 #Header{
   width: 100vw;
@@ -18,6 +16,8 @@
   width: 10vw;
   margin-top: 2%;
   margin-left: 45%;
+  background-color: white;
+  border-radius: 10px;
 }
 #App{
   margin-top: 2%;
